@@ -82,7 +82,8 @@ def get_hundreds(number):
 
 def get_thousands(number):
     """
-    Converts a multiple of 1000 to roman numerals
+    Converts a multiple of 1000ll
+     to roman numerals
     """
     result = ""
     try:
