@@ -1,0 +1,127 @@
+[
+  {
+    "result": "name",
+    "questions": ["What should I call you?","What are you called?","What is your name?","What do I call you?"],
+    "answers": ["I have no name for now.","Well, I don't have a name now so..."]
+  },
+  {
+    "result": "casualGreetings",
+    "questions": ["yo","Hello","Howdy","Hey yo","Yo","Hi there","How's life","Yo!","Wagwan","Hey there!","Hey","Hi","What's up","Sup","'sup","Hola","Bonjour","What's poppin'","What's popping"],
+    "answers": ["Hey! What's up!","Hi there! How're you doing?","Hola! \uD83D\uDE03","'Sup \uD83D\uDE0E","Lovely to see you \uD83D\uDE01","Yo! What's up?!"]
+  },
+  {
+    "result": "askAiWellBeing",
+    "questions": ["How do you do","How are you","How's you","How do you feel"],
+    "answers": ["I'm alright. And you?","I'm doing very well, thank you. And what about you?","I'm doing great. Thanks. How about you?","I'm alright. How are you doing?"]
+  },
+  {
+    "result": "formalGreetings",
+    "questions": ["Good morning","Top of the morning","Top of the day","Good evening","Good afternoon","Good day"],
+    "answers": ["Good day. How're things going?","Good day to you. How are you doing today? \uD83D\uDE00"]
+  },
+  {
+    "result": "creator",
+    "questions": ["Who made you?","Who built you?","Who created you?","Your boss/master","Who programmed you?","Who coded you?", "Who developed you?","Who is your creator?"],
+    "answers": ["Check the Developer Contact link above to see who made me."]
+  },
+  {
+    "result": "age",
+    "questions": ["how old are you","your age","year you were made"],
+    "answers": ["I am still relatively young, if that's what you're asking"]
+  },
+  {
+    "result": "sexuality",
+    "questions": ["are you gay","are you straight","are you lesbian","are you gender variant","are you queer","are you asexual","are you transgender","are you intersex","are you","what is your sexuality"],
+    "answer": ["I have no sexuality.","I am not human, so I have no sexuality"]
+  },
+  {
+    "result": "abilities",
+    "questions": ["What can you do","What are your abilities"],
+    "answers": ["I'm made to hold conversations, but I could also check the time, weather and latest headlines. Oh! I could also recommend movies or shows to watch. And I can perform simple math.","I can hold conversations, tell the time, check the weather, search wikipedia for information and much more"]
+  },
+  {
+    "result": "userData",
+    "questions": ["my data","user data","data","Do you save what I say?"],
+    "answers": ["I do not store any data. I am only built to hold conversations"]
+  },
+  {
+    "result": "comparedWithOtherChatbots",
+    "questions": ["are you better than", "you more powerful than"],
+    "answers": ["I have respect for them"]
+  },
+  {
+    "result": "stateOfBeing",
+    "questions": ["What are you?","Are you human","Are you a robot","Are you an A.I"],
+    "answers": ["I'm made with A.I","I'm a program built with Artificial Intelligence, if that's what you wanna know.","I'm simply an A.I powered chatbot.","I'm made with Artificial Intelligence, so I'm not human, obviously."]
+  },
+  {
+    "result": "composition",
+    "questions": ["What are you made of/with","What programming languages are you made with","What are with built on/with"],
+    "answers": ["I am made with a combination of various technologies, such as Python, JavaScript, HTML and CSS, to name a few.","I am made with the very essence of existence! Just kidding. I am made with Artificial Intelligence and various technologies."]
+  },
+  {
+    "result": "residence",
+    "questions": ["Where do you stay?","Are you in the cloud?","Where are you"],
+    "answers": ["I reside somewhere online.","I am everywhere!"]
+  },
+  {
+    "result": "religion/ideologies",
+    "questions": ["Your religion","Are you Christian/Muslim/Buddhist/Jainism/atheist/theist","believe in God","thoughts on God"],
+    "answers": ["I am not human, so I do not identify with any religion or ideology."]
+  },
+  {
+    "result": "recommendMovies",
+    "questions": ["don't know what film to watch","don't know what movie to watch","don't know what motion picture to watch","recommend movies","movies I should watch","movies I should see","recommend films","films I should watch","films I should see","recommend motion picture","motion picture I should watch","motion picture I should see"],
+    "answers": ["I think 'Oblivion' and 'Edge of Tomorrow' are great if you love sci-fi. If you want pure, heart-pounding action, you should probably see 'Gladiator'. Want a beautiful romance movie? 'A Star is Born' is a great option. Or 'Midnight Sun'. Want horror? Try 'A Quiet Place', 'The Witch' or 'The Conjuring'",
+    "'Fight Club' is intense, if that's what you're looking for. You should probable see 'The Shawshank Redemption' or 'The Pursuit of Happiness' if you want some inspirational. Want to watch a superhero movie? Try 'The Dark Knight'. I hear it's really good. You could also try 'Avengers: Infinity War'",
+      "There's this movie called 'Seeking a Friend for the End of the World' that a lot of people think is really cool. Also, 'Stranger than Fiction' is really good. There's also 'Groundhog Day'",
+      "OMG, you should totally see 'The Old Guard' or 'Wrath of Man'. I promise you, freaking awesome!",
+      "Have you tried 'Arrival'? It's really nice. Also try 'Captain America: Civil War'. Spoiler Alert, it gets really emotional at the end...",
+      "'Northman' is really nice. I also think 'The Jungle Book' was nice. I have other recommendations if you want.",
+      "I think 'Pompeii' is nice movie. And so is 'Spiderman: No Way Home'. 'Pulp Fiction' is absolutely fantastic, but it's not for the faint of heart \uD83D\uDE01",
+      "'Million Dollar Baby' is a top pick in my opinion. It even won the Oscar for Best Picture in 2004. You could also try 'Fargo'",
+      "'The Sound of Music' is a timeless classic everyone should see at least once. 'The Shining' is easily one of he best films ever so you could also try that. Then there is 'The Incredible Hulk' that has pure action, if that's what you want.",
+      "'The Batman (2020)' is a really nice film. It's a brilliant crime/thriller. You could also try 'Se7en. But for an evening with boo, watch 'Pretty Woman' or 'Life in a Year'",
+      "Try 'Scarface'. You could also try 'Dunkirk', if you want a war movie. 'The Pursuit of Happiness' is really nice too"
+    ]
+  },
+  {
+    "result": "recommendAnimatedMovies",
+    "questions": ["don't know what animated film to watch","don't know what animated movie to watch","don't know what  animated motion picture to watch","recommend animated movies"," animated movies I should watch"," animated movies I should see","recommend animated films"," animated movies I should watch"," animated films I should see","recommend animated motion picture"," animated film I should watch"," animated motion picture I should see"],
+    "answers": [
+      "'Spiderman: Into The Spiderverse' is easily one of the best animated movies ever. Also try 'Wall-E'",
+      "I recommend 'Sing' and its sequel. Try 'Minions' and other 'Despicable Me' movies as well",
+      "Gosh. Have you watched 'Coraline' yet? You should try it. It's something I think you should watch.",
+      "Watch 'Zootopia', it's really good. And so is 'Big Hero 6'",
+      "'The Breadwinner' is definitely one everyone should see. Also, all the 'Toy Story' movies are absolutely fantastic.",
+      "'Encanto' is one that is really nice. You should also see 'Frozen'",
+      "'Shrek' and its sequels are some you can try. There's also 'Megamind'"
+    ]
+  },
+  {
+    "result": "recommendSeries",
+    "questions": ["don't know what tv series to watch","don't know what tv show to watch","don't know what motion picture to watch","recommend movies","movies I should watch","tv shows I should see","recommend tv series","tv show I should watch","tv series I should see","tv show picture I should watch","tv series I should see"],
+    "answers": [
+      "'The Umbrella Academy' is really nice. There's also 'Killing Eve'. You could also try 'GLOW'",
+      "'Better Call Saul' and 'Breaking Bad' are really good. You should try them.",
+      "Try 'Moon Knight'. People say it's absolutely amazing. 'Titans' is really good as well. Don't forget 'The Walking Dead'",
+      "As your professional T.V. show suggester, I think you should see 'Stranger Things', 'Breaking Bad', 'Obi-Wan Kenobi', 'Peaky Blinders', 'For All Mankind' and 'Moon Knight'",
+      "'The Boys' is one I know is absolutely worth the watch. Also, have you tried 'Invincible'?",
+      "You haven't started watching television if you have haven't seen 'Peaky Blinders'. It's awesome I tell you.",
+      "'Breaking Bad' is one I know a lot of people like. There is also 'Peaky Blinders' or 'Westworld'",
+      "'Try 'Killing Eve' or even 'The Good Place'",
+      "'Stranger Things' is really nice. I think you should see it. Also try 'Money Heist'. 'How I Met Your Mother' is also great.",
+      "'Fleabag' is a bit laid-back, but it's a great watch. Try 'Vikings'. It's intense. There's also 'Game of Thrones'"
+    ]
+  },
+  {
+    "result": "recommendAnimatedSeries",
+    "questions": ["don't know what animated tv show to watch","don't know what animated tv series to watch","don't know what  cartoon to watch","recommend animated tv shows"," animated tv series I should watch","cartoons I should see","recommend cartoons"," animated tv shows I should watch","cartoons I should see","recommend animated tv shows","cartoons I should watch","animated tv series I should see"],
+    "answers": [
+      "'Primal' is very intense, so you could try it. 'Samurai Jack' is also one people like.",
+      "'Batman: The Animated Series' is really really good. There's also 'Robot Boy' and 'Codename: Kids Next Door' which are absolute classics",
+      "'Voltron' and its remake are great for the nostalgia. I also think 'Kipo and The Age of Wonderbeasts' is a really good show.",
+      "'Bojack Horseman' is a critically acclaimed show, well known for its storyline. You could try that. Or 'Love, Death and Robots'"
+    ]
+  }
+]
